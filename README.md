@@ -36,13 +36,13 @@
   <br>
 </div>
 
-*****
+
 
 <div align=center><h2>📚 TaskLists</h1></div>
 
 - [ ] Admission to Sunrin Internet High School
 
-*****
+
 
 <div align=center><h2>📚 Stats</h1></div>
 

@@ -38,13 +38,13 @@
 
 *****
 
-<div align=center><h1>📚 TaskLists</h1></div>
+<div align=center><h2>📚 TaskLists</h1></div>
 
 - [ ] Admission to Sunrin Internet High School
 
 *****
 
-<div align=center><h1>📚 Stats</h1></div>
+<div align=center><h2>📚 Stats</h1></div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghalee14)](https://solved.ac/seunghalee14/) </center>
 [![Seungha's github stats](https://github-readme-stats.vercel.app/api?username=seunghalee14)](https://github.com/anuraghazra/github-readme-stats)

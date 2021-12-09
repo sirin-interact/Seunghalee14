@@ -36,7 +36,7 @@
   <br>
 </div>
 
-[ ] Admission to Sunrin Internet High School
+- [ ] Admission to Sunrin Internet High School
 --
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghalee14)](https://solved.ac/seunghalee14/) </center>
 [![Seungha's github stats](https://github-readme-stats.vercel.app/api?username=seunghalee14)](https://github.com/anuraghazra/github-readme-stats)

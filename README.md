@@ -46,6 +46,6 @@
 
 <div align=center><h2>Stats</h2></div>
 
-[![seunghalee14's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seunghalee14&hide_border=true)](solved.ac/profile/seunghalee14)
+[![seunghalee14's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seunghalee14&hide_border=true)](https://solved.ac/profile/seunghalee14)
 
 [![Seungha's github stats](https://github-readme-stats.vercel.app/api?username=seunghalee14)](https://github.com/anuraghazra/github-readme-stats)

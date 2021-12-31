@@ -46,5 +46,5 @@
 
 <div align=center><h2>Stats</h2></div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghalee14)](https://solved.ac/seunghalee14/) </center>
+[![Seunghalee14's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seunghalee14&hide_border=true)](solved.ac/seunghalee14)
 [![Seungha's github stats](https://github-readme-stats.vercel.app/api?username=seunghalee14)](https://github.com/anuraghazra/github-readme-stats)
